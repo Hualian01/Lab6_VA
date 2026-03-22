@@ -1,4 +1,11 @@
 # Laboratorio#6 Aprendizaje Automático en Visión Artificial
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-3E8EFB?style=for-the-badge&logo=gradio&logoColor=white)
+
 Este laboratorio explora técnicas avanzadas de procesamiento visual centradas en la detección y mejora de estructuras relevantes en las imágenes. El objetivo es comprender cómo se pueden preparar y analizar las imágenes para dar soporte a aplicaciones de visión artificial y aprendizaje profundo.
 
 El laboratorio demuestra pasos clave de preprocesamiento utilizados en sistemas de visión artificial reales.
@@ -23,6 +30,9 @@ El laboratorio demuestra pasos clave de preprocesamiento utilizados en sistemas 
 - Mejorar estructuras con fines analíticos.
 - Preparar imágenes para modelos avanzados de visión artificial.
 - Interpretar los resultados visuales procesados.
+
+## Preview
+![K](img6.png)
 
 ## Resultados del aprendizaje
 - La detección de características mejora la interpretabilidad de las imágenes.
